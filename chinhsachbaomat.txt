@@ -1,13 +1,13 @@
 🛡️ CHÍNH SÁCH BẢO MẬT
-CÔNG TY X
+Công ty Nam Thành
 
 1. Giới thiệu chung
-Chính sách bảo mật này được ban hành bởi Công ty X (“chúng tôi” hoặc “Công ty”) nhằm quy định cách thức thu thập, sử dụng, lưu trữ và bảo vệ thông tin cá nhân (“dữ liệu”) của người dùng khi tương tác với chatbot, dịch vụ và hệ thống của Công ty.
+Chính sách bảo mật này được ban hành bởi Công ty Nam Thành (“chúng tôi” hoặc “Công ty”) nhằm quy định cách thức thu thập, sử dụng, lưu trữ và bảo vệ thông tin cá nhân (“dữ liệu”) của người dùng khi tương tác với chatbot, dịch vụ và hệ thống của Công ty.
 
 Chúng tôi cam kết bảo vệ quyền riêng tư của bạn và đảm bảo rằng dữ liệu cá nhân được xử lý một cách an toàn và minh bạch, phù hợp với quy định pháp luật hiện hành.
 
 2. Phạm vi áp dụng
-Chính sách này áp dụng cho tất cả người dùng chatbot Công ty X, bao gồm nhưng không giới hạn:
+Chính sách này áp dụng cho tất cả người dùng chatbot Công ty Nam Thành, bao gồm nhưng không giới hạn:
 
 Nhân viên nội bộ
 
@@ -176,7 +176,7 @@ Người dùng có thể gửi khiếu nại qua email [email@example.com]
 Công ty sẽ phản hồi trong vòng 15 ngày làm việc
 
 15. Liên hệ
-Công ty X
+Công ty Nam Thành
 Phòng Pháp lý và Tuân thủ
 Email: [email@example.com]
 Điện thoại: [Phone number]

@@ -1,4 +1,4 @@
-NỘI QUY LAO ĐỘNG CÔNG TY X
+NỘI QUY LAO ĐỘNG Công ty Nam Thành
 MỤC LỤC
 Quy định chung
 
@@ -29,10 +29,10 @@ Phụ lục (Biểu mẫu, quy trình đi kèm)
 📖 Nội dung chi tiết (bắt đầu)
 1. QUY ĐỊNH CHUNG
 1.1 Mục đích
-Nội quy Công ty X nhằm thiết lập các nguyên tắc, quy tắc ứng xử và yêu cầu đối với toàn thể cán bộ, nhân viên, đảm bảo sự vận hành hiệu quả, chuyên nghiệp, và tuân thủ pháp luật.
+Nội quy Công ty Nam Thành nhằm thiết lập các nguyên tắc, quy tắc ứng xử và yêu cầu đối với toàn thể cán bộ, nhân viên, đảm bảo sự vận hành hiệu quả, chuyên nghiệp, và tuân thủ pháp luật.
 
 1.2 Phạm vi áp dụng
-Áp dụng cho tất cả cán bộ, nhân viên, cộng tác viên, thực tập sinh, tư vấn viên và bất kỳ cá nhân nào hoạt động dưới danh nghĩa Công ty X.
+Áp dụng cho tất cả cán bộ, nhân viên, cộng tác viên, thực tập sinh, tư vấn viên và bất kỳ cá nhân nào hoạt động dưới danh nghĩa Công ty Nam Thành.
 
 1.3 Nguyên tắc chung
 Tuân thủ pháp luật Việt Nam và các quy định của công ty.
@@ -187,7 +187,7 @@ Mẫu báo cáo sự cố
 Mẫu đề xuất sáng kiến
 14. QUY ĐỊNH VỀ SỬ DỤNG HỆ THỐNG CÔNG NGHỆ THÔNG TIN
 14.1 Mục đích
-Nhằm đảm bảo an toàn thông tin, bảo vệ tài sản số và duy trì hiệu quả hoạt động, nhân viên Công ty X cần tuân thủ quy định về việc sử dụng hệ thống công nghệ thông tin (CNTT).
+Nhằm đảm bảo an toàn thông tin, bảo vệ tài sản số và duy trì hiệu quả hoạt động, nhân viên Công ty Nam Thành cần tuân thủ quy định về việc sử dụng hệ thống công nghệ thông tin (CNTT).
 
 14.2 Phạm vi áp dụng
 Áp dụng cho tất cả thiết bị, hệ thống, phần mềm, tài khoản điện tử do Công ty cung cấp hoặc cho phép sử dụng bao gồm:
